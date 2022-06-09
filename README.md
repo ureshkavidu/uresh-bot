@@ -1,4 +1,4 @@
-# _Raganork-multi-device_
+# _Uresh-multi-device_
 
 ## _Multi device whatsapp bot created with [@adiwajshing/baileys](https://github.com/adiwajshing/Baileys)_
 
